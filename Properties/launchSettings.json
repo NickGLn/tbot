@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TelegramBotTest": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
